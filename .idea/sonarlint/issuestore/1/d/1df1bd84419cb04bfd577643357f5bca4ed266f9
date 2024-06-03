@@ -1,0 +1,34 @@
+
+„
+java:S1192"bDefine a constant instead of duplicating this literal "---------------------------------" 6 times.(Êô²ºúÿÿÿÿ8³â¥×ü1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8³â¥×ü1
+i
+java:S1301‚"KReplace this "switch" statement by "if" statements to increase readability.(¢Ïç8³â¥×ü1
+L	java:S106"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Ââ¥×ü1
+L	java:S106 "+Replace this use of System.out by a logger.(óã‘îşÿÿÿÿ8Ââ¥×ü1
+G	java:S106!"+Replace this use of System.out by a logger.(¹ã‰§8Ââ¥×ü1
+G	java:S106""+Replace this use of System.out by a logger.(¾Ô‚ë8Ââ¥×ü1
+G	java:S106#"+Replace this use of System.out by a logger.(Ù¹¹§8Ââ¥×ü1
+G	java:S106$"+Replace this use of System.out by a logger.(é™‘Ó8Ãâ¥×ü1
+L	java:S106%"+Replace this use of System.out by a logger.(”µˆÅúÿÿÿÿ8Ãâ¥×ü1
+L	java:S106&"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Ãâ¥×ü1
+>	java:S131.""Add a default case to this switch.(™Ïêƒ8Ãâ¥×ü1
+L	java:S106U"+Replace this use of System.out by a logger.(’Ï¥Îüÿÿÿÿ8Äâ¥×ü1
+L	java:S106^"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Äâ¥×ü1
+L	java:S106_"+Replace this use of System.out by a logger.(ÃÄ§üÿÿÿÿ8Åâ¥×ü1
+G	java:S106`"+Replace this use of System.out by a logger.(œËØŒ8Åâ¥×ü1
+L	java:S106a"+Replace this use of System.out by a logger.(³¥äÀúÿÿÿÿ8Åâ¥×ü1
+L	java:S106b"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Åâ¥×ü1
+L	java:S106u"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Æâ¥×ü1
+G	java:S106v"+Replace this use of System.out by a logger.(Îµ²¨8Æâ¥×ü1
+F	java:S106w"+Replace this use of System.out by a logger.(ÙØ€g8Æâ¥×ü1
+L	java:S106x"+Replace this use of System.out by a logger.(ÿ©Ëûÿÿÿÿ8Æâ¥×ü1
+G	java:S106y"+Replace this use of System.out by a logger.(›”êº8Æâ¥×ü1
+L	java:S106z"+Replace this use of System.out by a logger.(‰ü—‹øÿÿÿÿ8Æâ¥×ü1
+L	java:S106{"+Replace this use of System.out by a logger.(¨àıµüÿÿÿÿ8Æâ¥×ü1
+G	java:S106|"+Replace this use of System.out by a logger.(¡—Ã8Æâ¥×ü1
+L	java:S106}"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8Æâ¥×ü1
+?	java:S131‚""Add a default case to this switch.(¢Ïç8Æâ¥×ü1
+M	java:S106"+Replace this use of System.out by a logger.(µ®¼æùÿÿÿÿ8Çâ¥×ü1
+H	java:S106”"+Replace this use of System.out by a logger.(£‰À‰8Çâ¥×ü1
+H	java:S106™"+Replace this use of System.out by a logger.(«Ã™Ü8Èâ¥×ü1

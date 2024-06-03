@@ -1,0 +1,16 @@
+
+L	java:S106)"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8„Ÿ°Öü1
+L	java:S106*"+Replace this use of System.out by a logger.(ÿ¦Íøÿÿÿÿ8„Ÿ°Öü1
+L	java:S1061"+Replace this use of System.out by a logger.(á­Ò‹ùÿÿÿÿ8…Ÿ°Öü1
+G	java:S106<"+Replace this use of System.out by a logger.(Î´¼Ä8…Ÿ°Öü1
+o
+java:S1128"MRemove this unused import 'com.mitrais.bootcamp.common.constant.AppConstant'.(²ê¹Ÿşÿÿÿÿ8…Ÿ°Öü1
+h
+java:S1128
+"FRemove this unused import 'com.mitrais.bootcamp.common.util.AppUtils'.(ÿ’Úıÿÿÿÿ8…Ÿ°Öü1
+c
+java:S1128"ARemove this unused import 'org.apache.commons.lang3.StringUtils'.(Øœ¼ºúÿÿÿÿ8…Ÿ°Öü1
+Y
+java:S1128"=Remove this unused import 'java.util.InputMismatchException'.(İ§18…Ÿ°Öü1
+r
+java:S1128"URemove this unused import 'com.mitrais.bootcamp.common.enums.WelcomeScreenField.PIN'.(—Ìİ²8†Ÿ°Öü1

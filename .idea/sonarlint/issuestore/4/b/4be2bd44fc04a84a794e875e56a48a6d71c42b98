@@ -1,0 +1,20 @@
+
+c	java:S116"NRename this field "TEN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àñ¹Æ
+e	java:S116"PRename this field "FIFTY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï«£Ç
+f	java:S116"RRename this field "HUNDRED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ŠÂ_
+7
+java:S1170"!Make this final field static too.(Àñ¹Æ
+7
+java:S1170"!Make this final field static too.(ï«£Ç
+6
+java:S1170"!Make this final field static too.(´ŠÂ_
+E	java:S106%"+Replace this use of System.out by a logger.(Œ”¸Žúÿÿÿÿ
+<	java:S131/""Add a default case to this switch.(­Ö¹§úÿÿÿÿ
+E	java:S106L"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106N"+Replace this use of System.out by a logger.(ÃÄ§üÿÿÿÿ
+?	java:S106Q"+Replace this use of System.out by a logger.(­„ð:
+E	java:S106W"+Replace this use of System.out by a logger.(æØ—Ïùÿÿÿÿ
+E	java:S106d"+Replace this use of System.out by a logger.(›ò»ùùÿÿÿÿ
+E	java:S106e"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+E	java:S106s"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@	java:S106w"+Replace this use of System.out by a logger.(ØÕ³ç

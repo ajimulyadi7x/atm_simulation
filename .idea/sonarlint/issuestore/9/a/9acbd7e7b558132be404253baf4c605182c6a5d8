@@ -1,0 +1,53 @@
+
+…
+java:S1192 "cDefine a constant instead of duplicating this literal "---------------------------------" 12 times.(Êô²ºúÿÿÿÿ8ãĞ·÷ı1
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8ãĞ·÷ı1
+z	java:S135q"YReduce the total number of break and continue statements in this loop to use at most one.(ü§è½ùÿÿÿÿ8ãĞ·÷ı1
+h
+java:S1301c"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ8ãĞ·÷ı1
+h
+java:S1301y"KReplace this "switch" statement by "if" statements to increase readability.(™Ïêƒ8ãĞ·÷ı1
+c
+java:S1854"FRemove this useless assignment to local variable "confirmationScreen".(®üŠ¾8ğĞ·÷ı1
+L	java:S106 "+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8ñĞ·÷ı1
+L	java:S106!"+Replace this use of System.out by a logger.(¨ê‰ÿÿÿÿÿ8ñĞ·÷ı1
+L	java:S106""+Replace this use of System.out by a logger.(³¥äÀúÿÿÿÿ8ñĞ·÷ı1
+L	java:S106#"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8ñĞ·÷ı1
+L	java:S106,"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8òĞ·÷ı1
+G	java:S106-"+Replace this use of System.out by a logger.(­¶ã»8òĞ·÷ı1
+L	java:S106."+Replace this use of System.out by a logger.(³¥äÀúÿÿÿÿ8òĞ·÷ı1
+L	java:S106/"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8òĞ·÷ı1
+L	java:S1069"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8òĞ·÷ı1
+L	java:S106:"+Replace this use of System.out by a logger.(ùíÛ£øÿÿÿÿ8òĞ·÷ı1
+F	java:S106;"+Replace this use of System.out by a logger.( µ‡P8òĞ·÷ı1
+L	java:S106<"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8òĞ·÷ı1
+L	java:S106@"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8òĞ·÷ı1
+G	java:S106A"+Replace this use of System.out by a logger.(àÊÈ8òĞ·÷ı1
+L	java:S106B"+Replace this use of System.out by a logger.(ÃÛéşÿÿÿÿ8òĞ·÷ı1
+G	java:S106C"+Replace this use of System.out by a logger.(Õ½îÂ8óĞ·÷ı1
+L	java:S106D"+Replace this use of System.out by a logger.(ùíÛ£øÿÿÿÿ8óĞ·÷ı1
+L	java:S106E"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8óĞ·÷ı1
+L	java:S106V"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8ôĞ·÷ı1
+G	java:S106W"+Replace this use of System.out by a logger.(ö­Ö˜8ôĞ·÷ı1
+L	java:S106X"+Replace this use of System.out by a logger.(ÃÛéşÿÿÿÿ8ôĞ·÷ı1
+G	java:S106Y"+Replace this use of System.out by a logger.(Õ½îÂ8ôĞ·÷ı1
+L	java:S106Z"+Replace this use of System.out by a logger.(ùíÛ£øÿÿÿÿ8ôĞ·÷ı1
+G	java:S106["+Replace this use of System.out by a logger.(©öŠ‚8ôĞ·÷ı1
+L	java:S106\"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ôĞ·÷ı1
+L	java:S106]"+Replace this use of System.out by a logger.(‰ü—‹øÿÿÿÿ8ôĞ·÷ı1
+L	java:S106^"+Replace this use of System.out by a logger.(¨àıµüÿÿÿÿ8ôĞ·÷ı1
+G	java:S106_"+Replace this use of System.out by a logger.(¡—Ã8ôĞ·÷ı1
+L	java:S106`"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8õĞ·÷ı1
+>	java:S131c""Add a default case to this switch.(™Ïêƒ8õĞ·÷ı1
+R
+java:S1172n"0Remove this unused method parameter "refNumber".(ç’ûƒùÿÿÿÿ8õĞ·÷ı1
+L	java:S106r"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8õĞ·÷ı1
+L	java:S106s"+Replace this use of System.out by a logger.(õŠÛíúÿÿÿÿ8öĞ·÷ı1
+G	java:S106t"+Replace this use of System.out by a logger.(³‰òç8öĞ·÷ı1
+G	java:S106u"+Replace this use of System.out by a logger.(¡—Ã8öĞ·÷ı1
+L	java:S106v"+Replace this use of System.out by a logger.(Êô²ºúÿÿÿÿ8öĞ·÷ı1
+>	java:S131y""Add a default case to this switch.(™Ïêƒ8öĞ·÷ı1
+F	java:S106}"+Replace this use of System.out by a logger.(Âîæ8öĞ·÷ı1
+M	java:S106ƒ"+Replace this use of System.out by a logger.(ıöËüşÿÿÿÿ8öĞ·÷ı1
+H	java:S106‰"+Replace this use of System.out by a logger.(Ôï¯ê8÷Ğ·÷ı1
+M	java:S106–"+Replace this use of System.out by a logger.(’Ï¥Îüÿÿÿÿ8÷Ğ·÷ı1
